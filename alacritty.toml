@@ -32,12 +32,12 @@ background = "#333333"
 
 [colors.normal]
 black = "#333333"
-red = "#EE2222"
+red = "#EE3333"
 green = "#FFC107"
 yellow = "#b91c1c"
 blue = "#e68e0d"
 magenta = "#D35F5F"
-cyan = "#990000"
+cyan = "#EE0000"
 white = "#bebebe"
 
 [colors.bright]
@@ -47,5 +47,5 @@ green = "#FFC107"
 yellow = "#b90a0a"
 blue = "#f59e0b"
 magenta = "#B91C1C"
-cyan = "#eaeaea"
+cyan = "#FF4444"
 white = "#ffffff"
