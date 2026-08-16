@@ -1,9 +1,12 @@
 return {
-  { "tahayvr/matteblack.nvim", lazy = false, priority = 1000 },
-  {
+	{
+		"knappkevin/crimsongold.nvim",
+		priority = 1000
+	},
+	{
 		"LazyVim/LazyVim",
 		opts = {
-			colorscheme = "matteblack",
+			colorscheme = "crimsongold",
 		},
 	},
 }

@@ -1,18 +1,12 @@
 # Crimson Gold Theme for [Omarchy](https://github.com/basecamp/omarchy)
-Btop's gold pallete taken from [Gold Rush](https://github.com/tahayvr/omarchy-gold-rush-theme)  
-Spotify themed with [Spicetify's](https://github.com/spicetify/spicetify-themes/tree/master) Starry Night's Sunrise theme
 
-## Quick Install
-```bash
-omarchy-theme-install https://github.com/knappkevin/omarchy-crimson-gold-theme
-```
-
-## Full Auto Install
-```bash
-omarchy-theme-install https://github.com/knappkevin/omarchy-crimson-gold-theme && \
-cd ~/.config/omarchy/themes/crimson-gold && \
-chmod +x install-theme.sh && \
-./install-theme.sh
-```
-
+## Preview
 ![Preview](preview.png)
+![Unlock Preview](preview-unlock.png)
+
+## Backgrounds
+![bg](backgrounds/1-crimson-gold.png)
+![bg](backgrounds/2-crimson-gold.jpg)
+![bg](backgrounds/2-crimson-gold.png)
+![bg](backgrounds/3-crimson-gold.png)
+![bg](backgrounds/4-crimson-gold.png)

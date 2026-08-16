@@ -1,0 +1,9 @@
+text             = "#ffc800"
+placeholder      = "#ffc800"
+text-error       = "#ff0000"
+border           = "#ff0000"
+border-active    = "#f59e0b"
+border-error     = "#ff0000"
+background       = "#770000"
+selection        = "#f59e0b"
+selection-alpha  = 0.3
