@@ -4,10 +4,13 @@ accent = "#9f831c"
 selection = "#770000"
 muted = "#aaaaaa"
 
-background = "#160000"
+background = "#1a0808"
 dark_background = "#100505"
 darker_background = "#080505"
 lighter_background = "#411010"
+
+login_background = "#770000"
+login_foreground = "#DBB42C"
 
 foreground = "#DBB42C"
 dark_foreground = "#444444"
