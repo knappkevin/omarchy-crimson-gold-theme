@@ -99,7 +99,7 @@ body {
     --bg-1: #3a1a1a; /* dark buttons when clicked */
     --bg-2: #2d1414; /* dark buttons */
     --bg-3: #241010; /* spacing, secondary elements */
-    --bg-4: #1a0808; /* main background color */
+    --bg-4: #300808; /* main background color */
     --hover: rgba(219, 180, 44, 0.1); /* channels and buttons when hovered */
     --active: rgba(219, 180, 44, 0.2); /* channels and buttons when clicked or selected */
     --active-2: rgba(219, 180, 44, 0.3); /* extra state for transparent buttons */
@@ -126,8 +126,8 @@ body {
 
     /* border colors */
     --border-light: rgba(219, 180, 44, 0.15); /* general light border color */
-    --border: rgba(219, 180, 44, 0.25); /* general normal border color */
-    --border-hover: var(--red-2); /* border color of panels when hovered */
+    --border: var(--yellow-5); /* general normal border color */
+    --border-hover: var(--yellow-2); /* border color of panels when hovered */
     --button-border: rgba(219, 180, 44, 0.2); /* neutral border color of buttons */
 
     /* base colors */
