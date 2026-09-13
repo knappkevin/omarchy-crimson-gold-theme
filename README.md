@@ -4,7 +4,7 @@
 ```bash
 omarchy theme install https://github.com/knappkevin/omarchy-crimson-gold-theme
 ```
-Vesktop file `sys24-crimson-gold.theme.css` will require manual copy to `~/.config/vesktop/themes/`
+Vesktop file will require manual `cp ~/.config/omarchy/themes/crimson-gold/sys24-crimson-gold.theme.css ~/.config/vesktop/themes/`
 Spicetify theme instructions [here](/spicetify-cg/spicetify-cmd.md)
 
 ## Preview

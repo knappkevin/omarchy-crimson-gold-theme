@@ -1,3 +1,4 @@
+## Based on Spicetify's text theme
 ```sh
 yay -S spicetify-cli
 cp -r ~/.config/omarchy/themes/crimson-gold/spicetify-cg/ ~/.config/spicetify/Themes/
